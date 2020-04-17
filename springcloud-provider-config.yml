@@ -42,7 +42,7 @@ info:
  company.name:  www.hzitxx.com
  build.artifactId:  ${project.artifactId}
  build.version:  ${project.version}
- ---
+---
  server:
   port: 8006
 mybatis:
